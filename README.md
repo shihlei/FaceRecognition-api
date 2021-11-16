@@ -1,5 +1,3 @@
 ### FaceRecognitionApi
 
-1. Clone this repo
-1. Run npm install
-1. Enter the details for your own databse in server.js
+1. It is the back-end for https://github.com/shihlei/FaceRecognitionBrain
